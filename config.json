@@ -1,10 +1,1 @@
-{
-    "showAnnouncement": false,
-    "announcementText": "⚠ New V2 Update Available!",
-    "showContactButton": false,
-    "contactButtonText": "CONTACT ME",
-    "contactButtonUrl": "https://t.me/dp_mods",
-    "showAnnouncementButton": true,
-    "announcementButtonText": "DOWNLOAD MOD",
-    "announcementButtonUrl": "https://yourdownloadlink.com"
-}
+{"showAnnouncement":false,"announcementText":"⚠ New V2 Update Available!","showContactButton":true,"contactButtonText":"CONTACT ME","contactButtonUrl":"https://t.me/dp_mods","showAnnouncementButton":false,"announcementButtonText":"DOWNLOAD MOD","announcementButtonUrl":"https://yourdownloadlink.com"}
