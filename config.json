@@ -1,12 +1,10 @@
 {
-  "showAnnouncement": false,
-  "announcementText": "⚠ New V2 Update Available!",
-
-  "showContactButton": true,
-  "contactButtonText": "CONTACT ME",
-  "contactButtonUrl": "https://t.me/dp_mods",
-
-  "showAnnouncementButton": false,
-  "announcementButtonText": "DOWNLOAD MOD",
-  "announcementButtonUrl": "https://yourdownloadlink.com"
+    "showAnnouncement": false,
+    "announcementText": "⚠ New V2 Update Available!",
+    "showContactButton": true,
+    "contactButtonText": "CONTACT ME",
+    "contactButtonUrl": "https://wa.me/6285808608116?text=rental_24Jm",
+    "showAnnouncementButton": false,
+    "announcementButtonText": "DOWNLOAD MOD",
+    "announcementButtonUrl": "https://yourdownloadlink.com"
 }
