@@ -1,10 +1,10 @@
 {
-  "showAnnouncement": false,
-  "announcementText": "⚠ New V2 Update Available!",
-  "showContactButton": false,
-  "contactButtonText": "CONTACT ME",
-  "contactButtonUrl": "https:\/\/wa.me\/6285808608116",
-  "showAnnouncementButton": true,
-  "announcementButtonText": "CONTACT ME",
-  "announcementButtonUrl": "https:\/\/yourdownloadlink.com"
+    "showAnnouncement": false,
+    "announcementText": "⚠ New V2 Update Available!",
+    "showContactButton": false,
+    "contactButtonText": "CONTACT ME",
+    "contactButtonUrl": "https://wa.me/6285808608116",
+    "showAnnouncementButton": true,
+    "announcementButtonText": "CONTACT ME",
+    "announcementButtonUrl": "https://yourdownloadlink.com"
 }
