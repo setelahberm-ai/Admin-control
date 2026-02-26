@@ -1,10 +1,1 @@
-{
-    "showAnnouncement": false,
-    "announcementText": "wnotbv\n",
-    "showContactButton": false,
-    "contactButtonText": "",
-    "contactButtonUrl": "",
-    "showAnnouncementButton": true,
-    "announcementButtonText": "",
-    "announcementButtonUrl": ""
-}
+{"showAnnouncement":false,"announcementText":"","showContactButton":true,"contactButtonText":"","contactButtonUrl":"","showAnnouncementButton":false,"announcementButtonText":"","announcementButtonUrl":""}
