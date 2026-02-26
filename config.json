@@ -1,7 +1,7 @@
 {
     "showAnnouncement": false,
     "announcementText": "",
-    "showContactButton": false,
+    "showContactButton": true,
     "contactButtonText": "",
     "contactButtonUrl": "",
     "showAnnouncementButton": false,
