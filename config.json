@@ -4,7 +4,7 @@
   "showContactButton": false,
   "contactButtonText": "CONTACT ME",
   "contactButtonUrl": "https:\/\/wa.me\/6285808608116",
-  "showAnnouncementButton": false,
+  "showAnnouncementButton": true,
   "announcementButtonText": "CONTACT ME",
   "announcementButtonUrl": "https:\/\/yourdownloadlink.com"
 }
